@@ -5,6 +5,7 @@ h1, h2 {
     background-color: greenyellow;
 }
 
+
 a {
     text-decoration: none;
 }
@@ -23,26 +24,18 @@ a {
     background: linear-gradient(#FFFFFF, #00ffd0);
 }
 
-.box-wrapper {
-    overflow: hidden;
+#blue {
+    color: blue;
 }
 
-#yosakoi {
-    float: left;
-    width: 49%;
-    height: 300px;
-    background-color: rgb(47, 255, 186);
+#orangered {
+    color: orangered;
 }
 
-#odori {
-    float: left;
-    margin-left: 2%;
-    width: 49%;
-    height: 300px;
-    background-color: red;
+#green {
+    color: green;
 }
 
-.blue {
-    color: rgb(47, 0, 255);
-    font-size: 1.3em;
+#orange {
+    color: orange;
 }
